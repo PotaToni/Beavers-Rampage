@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 9c6716a5866ea134ca402cdbc27fdbb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8408529677306948430
+    second: EnemyPlanet Spritesheet_0
+  - first:
+      213: 7425270823230448396
+    second: EnemyPlanet Spritesheet_1
+  - first:
+      213: 6751683853645534980
+    second: EnemyPlanet Spritesheet_2
+  - first:
+      213: -4478852939262955573
+    second: EnemyPlanet Spritesheet_3
+  - first:
+      213: -8450592998252139773
+    second: EnemyPlanet Spritesheet_4
+  - first:
+      213: 8803482650538614020
+    second: EnemyPlanet Spritesheet_5
+  - first:
+      213: 525653441927632365
+    second: EnemyPlanet Spritesheet_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyPlanet Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 818
+        width: 299
+        height: 340
+      alignment: 9
+      pivot: {x: 0.5171248, y: 0.048201077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b41acc0fc6ee4b80800000000000000
+      internalID: -8408529677306948430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlanet Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 401
+        width: 226
+        height: 245
+      alignment: 9
+      pivot: {x: 0.38671687, y: 1.2001348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0329b3197cdb0760800000000000000
+      internalID: 7425270823230448396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlanet Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 283
+        width: 358
+        height: 446
+      alignment: 9
+      pivot: {x: 0.5643622, y: 0.029291606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407584461bcc2bd50800000000000000
+      internalID: 6751683853645534980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlanet Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 428
+        width: 226
+        height: 245
+      alignment: 9
+      pivot: {x: 0.46601477, y: 1.2523836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf64025bfae7d1c0800000000000000
+      internalID: -4478852939262955573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlanet Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 74
+        width: 394
+        height: 172
+      alignment: 9
+      pivot: {x: 0.98084867, y: 0.14276399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b27c5f07679ba80800000000000000
+      internalID: -8450592998252139773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlanet Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 63
+        width: 107
+        height: 82
+      alignment: 9
+      pivot: {x: 0.093240045, y: 0.5936661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d1babe3d04c2a70800000000000000
+      internalID: 8803482650538614020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyPlanet Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 49
+        width: 79
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4351853, y: 0.8229073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5de09350f7b4700800000000000000
+      internalID: 525653441927632365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
